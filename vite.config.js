@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:'/w26-react-deliverable/',
+  base:'/win-2026-react/',
 })
